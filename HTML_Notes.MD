@@ -23,7 +23,7 @@ An HTML document starts with a `<!DOCTYPE html>` declaration followed by the `<h
 </body>
 </html> 
 ```
-### **Note** : The basic HTML structure includes several important elements:
+**Note** : The basic HTML structure includes several important elements:
 
 `<!DOCTYPE html>`: This declaration defines the document type and HTML version. It helps browsers render the page correctly.    
 `<html>`: The root element of an HTML document.   
@@ -31,7 +31,7 @@ An HTML document starts with a `<!DOCTYPE html>` declaration followed by the `<h
 `<title>`: Sets the title of the page, which appears in the browser tab.  
 `<body>`: The section where the visible content of the page is placed.
 
-### Tip: Make sure to use proper indentation and structure within the `<body>` tag to keep your content organized and readable.
+**Tip**: Make sure to use proper indentation and structure within the `<body>` tag to keep your content organized and readable.
 
 ## 2. Common HTML Tags
 ### Headings
