@@ -152,4 +152,4 @@ img {
 - `inline-block` elements combine the characteristics of both `block` and `inline` elements.
 - `none` hides the element entirely from the page.
 - `flex` and `grid` are powerful tools for creating responsive layouts.
-```
+
