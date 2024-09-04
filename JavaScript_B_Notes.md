@@ -1,6 +1,4 @@
-Here’s a basic set of JavaScript notes in Markdown format:
-
-```markdown
+ 
 # JavaScript Notes
 
 ## Table of Contents

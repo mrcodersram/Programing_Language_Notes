@@ -1,6 +1,5 @@
-Here’s a Markdown format of CSS notes covering the basics and essential concepts:
 
-```markdown
+
 # CSS Notes
 
 ## Table of Contents
